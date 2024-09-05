@@ -24,4 +24,4 @@ def check(guess):
                 "<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdqYWYxNGh5cjByam83ODF1ZHp5NWh1ZHMyNnowMDJ4OHc3dGJlcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eKNrUbDJuFuaQ1A37p/giphy.gif' width=500>"
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
